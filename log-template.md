@@ -28,3 +28,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+---
+
+
+# #100DaysOfCode Log - Round 1 - [Your Name Here]
+
+The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+
+## Log
+
+### R1D1
+Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+
+### R1D2
