@@ -21,10 +21,12 @@ __Thoughts__: New Year. New challenge. New goals. New timelines.
 
 **Progress**:
 - Created new repo for current & future rounds of #100DaysOfCode.
-- Explored options of how to spice it up & make it more interesting.
+  - Explored options of how to spice it up & make it more interesting.
+- Fixed dropdown cursor & mobile link on portfolio.
 
 __Thoughts__: ![R2D2](https://cdn-images-1.medium.com/max/1600/1*Hw7O2KfPe3OOUpt0L9W1Pg.jpeg)
 
 **Links**:
 - [#100DaysOfCode Repo](https://github.com/joelljones/100-days-of-code)
 - [#100DaysOfCode Log | Round 2](https://github.com/joelljones/100-days-of-code/blob/master/log-r2.md)
+- [Portfolio](https://joelljones.github.io/)
