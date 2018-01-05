@@ -47,3 +47,15 @@ __Thoughts__:
   - Knowledge based questions
 
 **Link**: [Cracking the Coding Interview](https://CrackingTheCodingInterview.com)
+
+<br>
+
+### R2D4: Thurs, Jan 4th, 2018
+
+**Progress**: CS50 | Week 0's lecture
+
+![CS50's David J. Malan](https://i.ytimg.com/vi/zFenJJtAEzE/maxresdefault.jpg)
+
+__Thoughts__: Wish I would have taken this to begin my education in development, but still, I'm hoping to learn a lot of CS fundamentals in this course over the next few months.
+
+**Link**: [CS50 | Week 0's lecture](https://video.cs50.net/2017/fall/lectures/0)
