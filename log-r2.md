@@ -37,6 +37,10 @@ __Thoughts__: ![R2D2](https://cdn-images-1.medium.com/max/1600/1*Hw7O2KfPe3OOUpt
 
 **Progress**: Read sections III - V of Cracking the Coding Interview.
 
+- Special Situations
+- Before the Interview
+- Behavioral Questions
+
 ![Cracking the Coding Interview](https://images-na.ssl-images-amazon.com/images/I/41J6k0AL6yL._SX348_BO1,204,203,200_.jpg)
 
 __Thoughts__:
@@ -59,3 +63,15 @@ __Thoughts__:
 __Thoughts__: Wish I would have taken this to begin my education in development, but still, I'm hoping to learn a lot of CS fundamentals in this course over the next few months.
 
 **Link**: [CS50 | Week 0's lecture](https://video.cs50.net/2017/fall/lectures/0)
+
+<br>
+
+### R2D5: Fri, Jan 5th, 2018
+
+**Progress**: Read sections VI - VIII of Cracking the Coding Interview.
+
+- Big O
+- Technical Questions
+- The Offer and Beyond
+
+**Link**: [Cracking the Coding Interview](https://CrackingTheCodingInterview.com)
