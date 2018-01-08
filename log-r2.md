@@ -83,3 +83,11 @@ __Thoughts__: Wish I would have taken this to begin my education in development,
 **Progress**: Reviewed and organized notes/guide.
 
 **Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D7: Sun, Jan 7th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
