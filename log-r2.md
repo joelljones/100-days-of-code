@@ -75,3 +75,11 @@ __Thoughts__: Wish I would have taken this to begin my education in development,
 - The Offer and Beyond
 
 **Link**: [Cracking the Coding Interview](https://CrackingTheCodingInterview.com)
+
+<br>
+
+### R2D6: Sat, Jan 6th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
