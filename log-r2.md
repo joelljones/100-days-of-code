@@ -56,7 +56,7 @@ __Thoughts__:
 
 ### R2D4: Thurs, Jan 4th, 2018
 
-**Progress**: CS50 | Week 0's lecture
+**Progress**: Watched CS50 Week 0's lecture.
 
 ![CS50's David J. Malan](https://i.ytimg.com/vi/zFenJJtAEzE/maxresdefault.jpg)
 
@@ -91,3 +91,13 @@ __Thoughts__: Wish I would have taken this to begin my education in development,
 **Progress**: Reviewed and organized notes/guide.
 
 **Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D8: Mon, Jan 8th, 2018
+
+**Progress**: Watched CS50 Week 1's lecture.
+
+__Thoughts__:
+
+**Link**: [CS50 | Week 1's lecture](https://video.cs50.net/2017/fall/lectures/1)
