@@ -101,3 +101,15 @@ __Thoughts__: Wish I would have taken this to begin my education in development,
 __Thoughts__:
 
 **Link**: [CS50 | Week 1's lecture](https://video.cs50.net/2017/fall/lectures/1)
+
+<br>
+
+### R2D9: Tues, Jan 9th, 2018
+
+**Progress**: Got started on a Udemy course, Git a Web Developer Job: Mastering the Modern Workflow.
+
+![](https://udemy-images.udemy.com/course/750x422/818990_57c0_3.jpg)
+
+__Thoughts__: Really going to try to fly through this course, as I'm thinking it should be mostly just review and seems to be not too long at all.
+
+**Link**: [Git a Web Developer Job: Mastering the Modern Workflow](https://udemy.com/git-a-web-developer-job-mastering-the-modern-workflow)
