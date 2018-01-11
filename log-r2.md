@@ -113,3 +113,15 @@ __Thoughts__:
 __Thoughts__: Really going to try to fly through this course, as I'm thinking it should be mostly just review and seems to be not too long at all.
 
 **Link**: [Git a Web Developer Job: Mastering the Modern Workflow](https://udemy.com/git-a-web-developer-job-mastering-the-modern-workflow)
+
+<br>
+
+### R2D10: Wed, Jan 10th, 2018
+
+**Progress**: Got started on Udacity's Grow with Google Challenge Scholarship: Front-End Web Dev.
+
+![](https://s3-us-west-2.amazonaws.com/udacity-email/Scholarships/GrowWithGoogleDeveloperChallengeScholarship.png?utm_medium=email&utm_campaign=sch_600_auto_ndxxx_accepted-gwg&utm_source=blueshift&utm_content=sch_600_auto_ndxxx_accepted-gwg&bsft_eid=0278905a-c28b-4a40-852e-38bdcbd095b7&bsft_clkid=02941e29-49a9-45bc-9c43-e8fbf398c37e&bsft_uid=283ebfd8-5fd7-479a-bedd-8f3e6f597a1f&bsft_mid=792978eb-fbf6-4630-863d-fe9069c6f1a7&bsft_txnid=f6a7f234-69f2-40b4-a743-7a1e87287253)
+
+__Thoughts__: Like the Udemy course, Git a Web Developer Job: Mastering the Modern Workflow, this should be review and I will attempt to progress through the course very quickly.
+
+**Link**: [Grow with Google Challenge Scholarship: Front-End Web Dev](https://udacity.com/grow-with-google)
