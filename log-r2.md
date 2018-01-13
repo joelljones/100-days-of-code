@@ -135,3 +135,11 @@ __Thoughts__: Like the Udemy course, Git a Web Developer Job: Mastering the Mode
 __Thoughts__: Didn't think Gulp would be useful seeing as how I thought I'd done just fine without it until now, but I can see the benefits going forward.
 
 **Link**: [travel-site](https://github.com/joelljones/travel-site)
+
+<br>
+
+### R2D12: Fri, Jan 12th, 2018
+
+**Progress**: Completed the HTML sections of the Udacity course.
+
+__Thoughts__: Learned a few new HTML tags.
