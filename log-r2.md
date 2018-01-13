@@ -125,3 +125,13 @@ __Thoughts__: Really going to try to fly through this course, as I'm thinking it
 __Thoughts__: Like the Udemy course, Git a Web Developer Job: Mastering the Modern Workflow, this should be review and I will attempt to progress through the course very quickly.
 
 **Link**: [Grow with Google Challenge Scholarship: Front-End Web Dev](https://udacity.com/grow-with-google)
+
+<br>
+
+### R2D11: Thurs, Jan 11th, 2018
+
+**Progress**: Intro to Gulp & PostCSS.
+
+__Thoughts__: Didn't think Gulp would be useful seeing as how I thought I'd done just fine without it until now, but I can see the benefits going forward.
+
+**Link**: [travel-site](https://github.com/joelljones/travel-site)
