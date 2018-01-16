@@ -143,3 +143,39 @@ __Thoughts__: Didn't think Gulp would be useful seeing as how I thought I'd done
 **Progress**: Completed the HTML sections of the Udacity course.
 
 __Thoughts__: Learned a few new HTML tags.
+
+<br>
+
+### R2D13: Sat, Jan 13th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D14: Sun, Jan 14th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D15: Mon, Jan 15th, 2018
+
+**Progress**:
+- Git a Web Developer Job: Mastering the Modern Workflow
+  - Began styling travel site.
+- Udacity Front-End Web Dev
+  - Did the CSS Syntax section.
+- The Coding Interview Bootcamp
+  - String Reversal
+
+![The Coding Interview Bootcamp](https://udemy-images.udemy.com/course/240x135/1409142_1879_8.jpg)
+
+__Thoughts__: Getting used to Gulp and modularizing CSS.
+
+**Links**:
+- [travel-site](https://github.com/joelljones/travel-site)
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
