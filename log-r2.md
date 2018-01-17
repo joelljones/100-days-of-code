@@ -179,3 +179,9 @@ __Thoughts__: Getting used to Gulp and modularizing CSS.
 **Links**:
 - [travel-site](https://github.com/joelljones/travel-site)
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
+
+<br>
+
+### R2D16: Tues, Jan 16th, 2018
+
+**Progress**: Completed the CSS sections of the Udacity Front-End Web Dev course.
