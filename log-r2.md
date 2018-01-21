@@ -185,3 +185,35 @@ __Thoughts__: Getting used to Gulp and modularizing CSS.
 ### R2D16: Tues, Jan 16th, 2018
 
 **Progress**: Completed the CSS sections of the Udacity Front-End Web Dev course.
+
+<br>
+
+### R2D8: Wed, Jan 17th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D8: Thurs, Jan 18th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D8: Fri, Jan 19th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D8: Sat, Jan 20th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
