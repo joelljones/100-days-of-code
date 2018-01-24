@@ -188,7 +188,17 @@ __Thoughts__: Getting used to Gulp and modularizing CSS.
 
 <br>
 
-### R2D8: Wed, Jan 17th, 2018
+### R2D17: Wed, Jan 17th, 2018
+
+**Progress**: Watched CS50 Week 2's lecture.
+
+__Thoughts__:
+
+**Link**: [CS50 | Week 2's lecture](https://video.cs50.net/2017/fall/lectures/2)
+
+<br>
+
+### R2D18: Thurs, Jan 18th, 2018
 
 **Progress**: Reviewed and organized notes/guide.
 
@@ -196,7 +206,7 @@ __Thoughts__: Getting used to Gulp and modularizing CSS.
 
 <br>
 
-### R2D8: Thurs, Jan 18th, 2018
+### R2D19: Fri, Jan 19th, 2018
 
 **Progress**: Reviewed and organized notes/guide.
 
@@ -204,7 +214,7 @@ __Thoughts__: Getting used to Gulp and modularizing CSS.
 
 <br>
 
-### R2D8: Fri, Jan 19th, 2018
+### R2D20: Sat, Jan 20th, 2018
 
 **Progress**: Reviewed and organized notes/guide.
 
@@ -212,8 +222,28 @@ __Thoughts__: Getting used to Gulp and modularizing CSS.
 
 <br>
 
-### R2D8: Sat, Jan 20th, 2018
+### R2D21: Sun, Jan 21st, 2018
 
 **Progress**: Reviewed and organized notes/guide.
 
 **Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D22: Mon, Jan 22nd, 2018
+
+**Progress**: Watched CS50 Week 3's lecture.
+
+__Thoughts__:
+
+**Link**: [CS50 | Week 3's lecture](https://video.cs50.net/2017/fall/lectures/3)
+
+<br>
+
+### R2D23: Tues, Jan 23rd, 2018
+
+**Progress**:
+- Introduction to JavaScript on Codecademy.
+- JavaScript data types and variables section of the Udacity Front-End Web Dev course.
+
+**Link**: [Introduction to JavaScript on Codecademy](https://codecademy.com/learn/introduction-to-javascript)
