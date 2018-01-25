@@ -247,3 +247,9 @@ __Thoughts__:
 - JavaScript data types and variables section of the Udacity Front-End Web Dev course.
 
 **Link**: [Introduction to JavaScript on Codecademy](https://codecademy.com/learn/introduction-to-javascript)
+
+<br>
+
+### R2D24: Wed, Jan 24th, 2018
+
+**Progress**: JavaScript conditionals section of the Udacity Front-End Web Dev course.
