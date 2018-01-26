@@ -253,3 +253,16 @@ __Thoughts__:
 ### R2D24: Wed, Jan 24th, 2018
 
 **Progress**: JavaScript conditionals section of the Udacity Front-End Web Dev course.
+
+<br>
+
+### R2D25: Thurs, Jan 25th, 2018
+
+**Progress**:
+- JavaScript loops section of the Udacity Front-End Web Dev course.
+- add browsersync and organize gulp files | travel-site
+- String Reversal | Algorithms and Data Structures on Udemy.
+
+**Link**:
+- [travel-site](https://joelljones.github.io/travel-site)
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://udemy.com/coding-interview-bootcamp-algorithms-and-data-structure)
