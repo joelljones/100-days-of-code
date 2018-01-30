@@ -266,3 +266,39 @@ __Thoughts__:
 **Link**:
 - [travel-site](https://joelljones.github.io/travel-site)
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://udemy.com/coding-interview-bootcamp-algorithms-and-data-structure)
+
+<br>
+
+### R2D26: Fri, Jan 26th, 2018
+
+**Progress**: Chapter 1 of Eloquent JavaScript.
+
+![](http://eloquentjavascript.net/img/cover.png)
+
+**Link**: [Eloquent JavaScript](http://eloquentjavascript.net)
+
+<br>
+
+### R2D27: Sat, Jan 27th, 2018
+
+**Progress**: Chapter 1 of Eloquent JavaScript.
+
+**Link**: [Eloquent JavaScript](http://eloquentjavascript.net)
+
+<br>
+
+### R2D28: Sun, Jan 28th, 2018
+
+**Progress**: Reviewed and organized notes/guide.
+
+**Link**: [Guide](https://github.com/joelljones/guide)
+
+<br>
+
+### R2D29: Mon, Jan 29th, 2018
+
+**Progress**: Learn Git on Codecademy.
+
+![](https://production.cdmycdn.com/webpack/a938d55f64e9d2b96cbd90f86fa816bd.svg)
+
+**Link**: [Learn Git](https://codecademy.com/learn/learn-git)
