@@ -302,3 +302,17 @@ __Thoughts__:
 ![](https://production.cdmycdn.com/webpack/a938d55f64e9d2b96cbd90f86fa816bd.svg)
 
 **Link**: [Learn Git](https://codecademy.com/learn/learn-git)
+
+<br>
+
+### R2D30: Tues, Jan 30th, 2018
+
+**Progress**:
+- Learn HTML on Codecademy.
+- Updated portfolio.
+
+![](https://production.cdmycdn.com/webpack/3d7c19cebe85b8d870e6d2c181dec922.svg)
+
+**Link**:
+- [Learn HTML](https://codecademy.com/learn/learn-html)
+- [Portfolio](https://joelljones.github.io)
